@@ -7,7 +7,9 @@ En general son proyectos autocontenidos, con un propósito muy puntual que me si
 ## Indice:
 
 1. [CSS Grid: 5 layouts en 17 minutos][0]
+2. [Javascript: Audio Visualizer blog LogRocket][1]
 
 
 
+[1]:./js-audio-visualizer-logrocket/README.md
 [0]:./css-grid-5-layouts-rapidos/README.md
