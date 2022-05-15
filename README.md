@@ -10,4 +10,4 @@ En general son proyectos autocontenidos, con un propósito muy puntual que me si
 
 
 
-[0]:/css-grid-5-layouts-in-17-minutes/README.md
+[0]:./css-grid-5-layouts-rapidos/README.md
